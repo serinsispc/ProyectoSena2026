@@ -6,6 +6,10 @@ Sistema de gestión clínica y bienestar animal — proyecto SENA 2026.
 
 El proyecto está en su etapa inicial. El archivo `EsquemaSQL.sql` es el punto de partida para definir la base de datos.
 
+## Documentación
+
+La [documentación del proyecto](docs/README.md) incluye la [bitácora de procedimientos](docs/BITACORA.md) y un formato para registrar los próximos avances.
+
 ## Trabajo con el repositorio
 
 1. Crear los archivos y componentes del proyecto en esta carpeta.
